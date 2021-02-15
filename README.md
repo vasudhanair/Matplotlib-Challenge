@@ -35,6 +35,7 @@ Study was carried out with the following action items listed below
 8. The correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot was calculated.
 
 9. Here are the following three observations that can be made from the data.
+
 Observations and Insights
 
 a) The bar graph depicted that the Drug regimen capomulin has the maximum number of mice at 230 and the drug Zoniferol has the smaller mice number at 182.The total mice count by gender showed that there were 124 females and 125 males.The removal of duplicates resulted in mice count being 248.
